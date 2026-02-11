@@ -125,7 +125,7 @@ python backuper.py
 
 Developed with ❤️ by Artur (Turzimm). If this project helped you protect your worlds, consider giving it a ⭐!
 
-    * **Artur** - *Lead Developer* 📎 [GitHub Profile](https://github.com/TurzimmGit) | [LinkedIn](https://linkedin.com/in/artur-ferreira-sales-26a927370/)
+ * **Artur** - *Lead Developer* 📎 [GitHub Profile](https://github.com/TurzimmGit) | [LinkedIn](https://linkedin.com/in/artur-ferreira-sales-26a927370/)
 
 <a id="license"></a>
 📜 License
