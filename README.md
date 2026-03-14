@@ -4,9 +4,9 @@
 
 <p align="center"> <em> A robust, autonomous Python solution for compressing Minecraft worlds, uploading them to Google Drive, and receiving detailed status reports via email. </em> </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/License-MIT-E92063?style=flat-square&logo=opensourceinitiative&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3.x-E92063?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/🛠_Status-Operational-E92063?style=flat-square"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/License-MIT-58af3e?style=flat-square&logo=opensourceinitiative&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3.x-58af3e?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/🛠_Status-Operational-58af3e?style=flat-square"/> </p>
 
-<p align="center"><em>Built with:</em></p> <p align="center"> <img src="https://img.shields.io/badge/Compression-WinRAR-E92063?style=flat-square&logo=winrar&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud-Google_Drive-E92063?style=flat-square&logo=googledrive&logoColor=white"/> <img src="https://img.shields.io/badge/Logging-Python_Logging-E92063?style=flat-square&logo=python&logoColor=white"/> </p>
+<p align="center"><em>Built with:</em></p> <p align="center"> <img src="https://img.shields.io/badge/Compression-WinRAR-045901?style=flat-square&logo=winrar&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud-Google_Drive-045901?style=flat-square&logo=googledrive&logoColor=white"/> <img src="https://img.shields.io/badge/Logging-Python_Logging-045901?style=flat-square&logo=python&logoColor=white"/> </p>
 
 <details><summary><b>📋 Table of Contents</b></summary>
 
