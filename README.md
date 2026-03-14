@@ -132,4 +132,4 @@ Developed with ❤️ by Artur (Turzimm). If this project helped you protect you
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-<p align="left"> <a href="#top"> <img src="https://img.shields.io/badge/Back_to_Top_⭱-E92063?style=flat&logoColor=white" /> </a> </p>
+<p align="left"> <a href="#top"> <img src="https://img.shields.io/badge/Back_to_Top_⭱-58af3e?style=flat&logoColor=white" /> </a> </p>
